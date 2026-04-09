@@ -1,8 +1,8 @@
 cask "kubecat" do
-  version "0.2.5"
-  sha256 "8c6bd3c0691ade79210841a8aff465ecbe708953cad9c349878f740d391ec185"
+  version "0.3.0"
+  sha256 "132b28c535d2696636d9de563c43e83d4410b1edeba353d88e95debef7a5ea5a"
 
-  url "https://github.com/thepixelabs/homebrew-kubecat/releases/download/v0.2.5/kubecat_v0.2.5_macOS_universal.dmg"
+  url "https://github.com/thepixelabs/homebrew-kubecat/releases/download/v0.3.0/kubecat_v0.3.0_macOS_universal.dmg"
   name "Kubecat"
   desc "Incident-first Kubernetes desktop app with AI-powered operations"
   homepage "https://loquacious-pegasus-544122.netlify.app/"
